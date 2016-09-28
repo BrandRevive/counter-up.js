@@ -1,6 +1,8 @@
 # counter-up.js
 Pure JavaScript counter that counts up. Useful for statistics.
 
+See the [demo](https://brandrevive.github.io/counter-up.js/demo/) for an example.
+
 ## Usage
 ```javascript
 statCounter(statElement, statData, speed);
@@ -21,4 +23,7 @@ statCounter(statElement, statData, speed);
 </script>
 ```
 
-See the [demo](https://brandrevive.github.io/counter-up.js/demo/) for an example.
+You can also install this through [npm](https://www.npmjs.com/package/counter-up.js).
+```
+$ npm install --save counter-up.js
+```

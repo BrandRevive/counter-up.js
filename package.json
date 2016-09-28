@@ -1,0 +1,19 @@
+{
+  "name": "counter-up.js",
+  "version": "0.0.0",
+  "description": "Pure JS counter that counts up. Useful for statistics.",
+  "main": "counter-up.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandRevive/counter-up.js.git"
+  },
+  "author": "Brand Revive",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrandRevive/counter-up.js/issues"
+  },
+  "homepage": "https://github.com/BrandRevive/counter-up.js#readme"
+}
