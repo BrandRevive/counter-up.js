@@ -21,4 +21,4 @@ statCounter(statElement, statData, speed);
 </script>
 ```
 
-See the demo for an example.
+See the [demo](https://brandrevive.github.io/counter-up.js/demo/) for an example.
