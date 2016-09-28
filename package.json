@@ -1,6 +1,6 @@
 {
   "name": "counter-up.js",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Pure JS counter that counts up. Useful for statistics.",
   "main": "counter-up.js",
   "scripts": {
