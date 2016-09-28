@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Brand Revive Counter Demo</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Scroll down ↓</h1>
+    <div class="big-scroll">
+      <section class="stats-container">
+        <div id="stats"></div>
+      </section>
+    </div>
+  </body>
+  <script src="../counter-up.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+
+      statCounter('stats', [
+        { label: 'Cities',  amount: 9  },
+        { label: 'Hackers', amount: 50 },
+        { label: 'Pizzas',  amount: 99 },
+      ], 200);
+
+    });
+  </script>
+</html>

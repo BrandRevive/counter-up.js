@@ -1,0 +1,42 @@
+html {
+  background: #eee;
+}
+
+body {
+  padding: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.big-scroll {
+  padding: 1000px 0;
+}
+
+.stats-container {
+  margin-top: 20px;
+  padding: 80px 40px;
+  border: 5px solid white;
+  background: url(counter-bg.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#stats {
+  display: flex;
+  justify-content: space-around;
+}
+
+#stats .stat {
+  padding: 0 20px;
+  text-align: center;
+}
+
+.stat .counter {
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.stat .label {
+  font-weight: bold;
+}
